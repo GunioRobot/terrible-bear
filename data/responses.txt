@@ -5,9 +5,9 @@
 
 1 2 C'mere you big lug,
 1 2 Some say I'm a terrible bear, but
-1 2 I feel relaxed round you, {user_name}, 
-1 2 Hey, {user_name}, 
-1 2 I've been meaning to tell you -- 
+1 2 I feel relaxed round you, {user_name},
+1 2 Hey, {user_name},
+1 2 I've been meaning to tell you --
 1 2 Relax, man! Hey -- I have to say
 1 2 Ahhhhhhh!
 
@@ -46,7 +46,7 @@
 1 0 Hmph..
 2 0 {user_name}
 
-1 0 I know I'm not Smokey the Bear, 
+1 0 I know I'm not Smokey the Bear,
 1 0 You're okay...
 1 0 Ay!
 2 0 did you get that thing I sent you?
@@ -97,7 +97,7 @@
 
 
 1 -2 ...
-2 -2 You wanna make something of this? 
+2 -2 You wanna make something of this?
 
 1 2 I'm so happy I don't know what to say.
 
@@ -122,9 +122,9 @@
 2 -2 Bears can get pretty fucking angry.
 2 -2 I'll admit, I have anger issues.
 2 -2 Sometimes I have difficulty with dealing with people.
-1 -2 Life's shit, yeah. 
+1 -2 Life's shit, yeah.
 2 -2 You don't want to fight me.
-2 -2 You want a hug? A big big hug? 
+2 -2 You want a hug? A big big hug?
 
 
 #responses : by ishi
